@@ -23,14 +23,15 @@ This project predicts greenhouse gas (GHG) emissions based on various input feat
 
 ```
 .
-├── app.py                       # Main Streamlit app
+├── app.py                          # Main Streamlit app
 ├── GHG_Emissions_Prediction.ipynb  # Jupyter Notebook for development
 ├── models/
-│   ├── LR_model.pkl             # Trained Logistic Regression model
-│   └── scalar.pkl               # Scaler used during training
+│   ├── LR_model.pkl                # Trained Logistic Regression model
+│   └── scalar.pkl                  # Scaler used during training
 ├── utils/
-│   └── preprocessor.py          # Input preprocessing logic
-└── README.md                    # Project overview
+│   └── preprocessor.py             # Input preprocessing logic
+├── LICENSE                         # License file for the project
+└── README.md                       # Project overview
 ```
 
 ##  How to Run
@@ -82,4 +83,4 @@ Made with ❤️ by **Mamatha Kollamaram**
 
 ---
 
-Feel free to contribute or raise issues if you find any bugs or have suggestions! 🌱
+Feel free to contribute or raise issues if you find any bugs or have suggestions!
