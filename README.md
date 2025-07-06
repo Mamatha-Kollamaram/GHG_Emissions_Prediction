@@ -2,7 +2,7 @@
 
 This project predicts greenhouse gas (GHG) emissions based on various input features using a pre-trained machine learning model. The goal is to assist organizations or researchers in estimating emissions using a simple web-based interface powered by **Streamlit**.
 
-> ✅ **This project was developed as part of an AICTE Virtual Internship Program with Shell and Edunet Foundation.**
+>  **This project was developed as part of an AICTE Virtual Internship Program with Shell and Edunet Foundation.**
 
 ##  Features
 
